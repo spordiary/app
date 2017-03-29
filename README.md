@@ -1,2 +1,2 @@
 # app
-wer rastet, der rostet
+wer rastet, der rostet (nicht)
